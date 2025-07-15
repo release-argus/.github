@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/release-argus/Argus/raw/master/web/ui/static/logo-dark.png" height="128" />
+<img align="left" src="https://github.com/release-argus/Argus/raw/master/web/ui/react-app/public/favicon.svg" height="128" />
 <h1 align="left">Argus</h1>
 
 [Website](https://release-argus.io) and [Demo](https://release-argus.io/demo)
